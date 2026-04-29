@@ -1,8 +1,9 @@
+![Architecture](architecture-diagram.png)
 # 🚀 AWS VPC Architecture Lab
 
 ## 📌 Overview
 
-This project demonstrates a secure AWS VPC setup with **public and private subnets**, using an **Internet Gateway (IGW)** and **NAT Gateway** for controlled internet access.
+AWS VPC with public/private subnets, IGW, NAT Gateway & routing
 
 ---
 
